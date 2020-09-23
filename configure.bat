@@ -1,0 +1,2 @@
+uktvgrabber -configure MODEM
+exit
